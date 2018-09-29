@@ -4,5 +4,4 @@ my_dict ={'country': 'Bangladesh', 'division': 'Rangpur',
           }
 
 for key,value in my_dict.items():
-
     print("{} = {},".format(key,value))
